@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_miatoll.mk
+    $(LOCAL_DIR)/ssos_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_miatoll-user \
-    havoc_miatoll-userdebug \
-    havoc_miatoll-eng
+    ssos_miatoll-user \
+    ssos_miatoll-userdebug \
+    ssos_miatoll-eng
